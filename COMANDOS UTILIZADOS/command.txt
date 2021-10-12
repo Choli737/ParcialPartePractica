@@ -1,0 +1,3 @@
+El comando cp en la temrinal
+se utliza para hacer una copia
+de un archivo o de un directorio
